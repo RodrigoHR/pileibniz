@@ -4,7 +4,7 @@ This repository contains a Python implementation of the Leibniz method for calcu
 
 The formula for the Leibniz method is as follows:
 
-<img src="https://render.githubusercontent.com/render/math?math=\large \frac{\pi}{4} = \sum_{n=0}^{\infty} \frac{(-1)^n}{2n+1}">
+<p align="center"><img src="https://render.githubusercontent.com/render/math?math=\large \frac{\pi}{4} = \sum_{n=0}^{\infty} \frac{(-1)^n}{2n+1}"></p>
 
 In this formula, pi is approximated by summing the terms of the series. Each term alternates between positive and negative, and the denominator increases by 2 for each term.
 
