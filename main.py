@@ -17,7 +17,7 @@ pi_real = decimal.Decimal("3.14159265358979323846264338327950288419716939937510"
 start_time = time.time()
 
 # Iterate through the series
-for i in range(1, 50):
+for i in range(1, 1000000):
     previous_pi = pi
     pi += sign * term
     sign *= -1
